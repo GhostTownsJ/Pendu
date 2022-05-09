@@ -1,0 +1,15 @@
+C:\Users\Lauraline\PenduA\bin\Debug\net6.0\PenduA.exe
+C:\Users\Lauraline\PenduA\bin\Debug\net6.0\PenduA.deps.json
+C:\Users\Lauraline\PenduA\bin\Debug\net6.0\PenduA.runtimeconfig.json
+C:\Users\Lauraline\PenduA\bin\Debug\net6.0\PenduA.dll
+C:\Users\Lauraline\PenduA\bin\Debug\net6.0\PenduA.pdb
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\PenduA.csproj.AssemblyReference.cache
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\PenduA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\PenduA.AssemblyInfoInputs.cache
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\PenduA.AssemblyInfo.cs
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\PenduA.csproj.CoreCompileInputs.cache
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\PenduA.dll
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\refint\PenduA.dll
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\PenduA.pdb
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\PenduA.genruntimeconfig.cache
+C:\Users\Lauraline\PenduA\obj\Debug\net6.0\ref\PenduA.dll
